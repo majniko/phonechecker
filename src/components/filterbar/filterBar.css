@@ -1,0 +1,8 @@
+.filterBar {
+  display: flex;
+  gap: 1vw;
+  flex-direction: row;
+  margin: 1vw;
+  width: 100%;
+  min-width: 20vw;
+}

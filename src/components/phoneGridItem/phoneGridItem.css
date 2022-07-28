@@ -1,0 +1,43 @@
+.phoneImage {
+  height: 15vh;
+  margin: auto;
+  width: fit-content;
+  position: relative;
+}
+
+.border {
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: rgba(0, 0, 0, 0.12);
+  border-style: solid;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.phone {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 2%;
+}
+
+h3 {
+  margin: 0;
+  margin-bottom: 4%;
+}
+
+.hidden {
+  visibility: hidden;
+}

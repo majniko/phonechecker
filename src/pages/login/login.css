@@ -1,0 +1,19 @@
+.login {
+  margin-top: 2vh;
+  width: 90%;
+  display: flex;
+  gap: 2px;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 5%;
+}
+
+.loginBorder {
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: rgba(0, 0, 0, 0.12);
+  border-style: solid;
+  max-width: 600px;
+  margin: 5vh auto;
+  background-color: #ffffff;
+}
